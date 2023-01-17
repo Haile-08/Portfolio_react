@@ -1,0 +1,33 @@
+.nav_bar {
+    position: sticky;
+    padding: 50px 350px 50px 20px;
+    display: flex;
+    justify-content: end;    
+    background-color: aquamarine;
+}
+
+.navbtn{
+    width: 50px;
+    height: 30px;
+    z-index: 10;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: cadetblue;
+}
+.line{
+    margin: 7px;
+    background-color: white;
+    width: 30px;
+    height: 0.2px;
+    border-bottom: 1px solid white;
+    border-radius: 10px;
+}
+.diff{
+    margin: 7px;
+    background-color: white;
+    width: 30px;
+    height: 0.4px;
+    border-bottom: 1px solid white;
+    border-radius: 10px;
+}
